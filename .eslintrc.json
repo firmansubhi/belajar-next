@@ -1,3 +1,13 @@
 {
-  "extends": "next/core-web-vitals"
+	"extends": "next/core-web-vitals"
+	//"rules": {
+	//	"@next/next/no-html-link-for-pages": "off",
+	//	"react/jsx-key": "off",
+	//	"react/no-unescaped-entities": "off",
+	//	"react/no-unstable-nested-components": "off",
+	//	"react/no-unused-prop-types": "off",
+	//	"react/prop-types": "off",
+	//	"react/jsx-props-no-spreading": "off",
+	//	"react/jsx-filename-extension": "off"
+	//}
 }
